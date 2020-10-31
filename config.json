@@ -1,0 +1,5 @@
+{
+	"prefix": "/agent ",
+    "database": "sqlite://db.sqlite",
+    "intents": ["GUILDS","GUILD_MESSAGES","DIRECT_MESSAGES","GUILD_MEMBERS"]
+}
